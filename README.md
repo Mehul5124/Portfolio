@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Mehul Pradipkumar Balsara** — Machine Learning Engineer & Data Scientist.
 
-🔗 **Live site:** [add your Vercel URL here once deployed]
+🔗 **Live site:** portfolio-sandy-one-78.vercel.app
 
 ## Overview
 
